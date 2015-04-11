@@ -1,0 +1,4 @@
+*.pyg
+*.tex
+*.pyc
+*.egg-info
